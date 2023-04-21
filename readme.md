@@ -23,7 +23,7 @@ git clone https://github.com/ionic-team/stencil-component-starter.git my-compone
 cd my-component
 git remote rm origin
 ```
-
+#run two
 and run:
 
 ```bash
